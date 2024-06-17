@@ -6,3 +6,4 @@
 While I do encourage you to pick and choose what you like from my dotfiles I do not recommend that you attempt to 
 replicate them entirely. I don't claim responsibility for anything you break by trying to use anything specifically built for use on my machine.</p>
 <hr>
+### THIS PROJECT IS ARCHIVED INDFINITELY OR UNTIL I USE HYPRLAND AGAIN.
